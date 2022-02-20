@@ -1,7 +1,7 @@
 # 🎯 Desafio de Programação - Academia Capgemini
 Este repositório é dedicado ao Desafio de Programação proposto pela Academia Java Capgemini 2022, que tem como objetivo avaliar a lógica de programação dos candidatos. Esse projeto foi feito com a linguagem de programação Java.  
 
------------
+
 ## 🚀 Começando
 Antes de tudo, você vai precisar ter instalado em sua máquina:
 
@@ -10,7 +10,7 @@ Antes de tudo, você vai precisar ter instalado em sua máquina:
 
 Além disso também é necessário um editor de código com suporte a linguagem Java para a execução de código como o [VSCode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [NetBeans](https://netbeans.apache.org/download/index.html) ou outro de sua preferência.
 
-----------
+
 
 ## **⚙**  Desenvolvimento
 Para iniciar o desenvolvimento do programa, é necessário clonar o repositório do GitHub para o diretório de sua preferência. 
@@ -34,7 +34,7 @@ Os dados de entrada propostos pelo desafio são esses:
 
 ⚠ **Atenção!** Todas as questões devem ter algum valor de entrada para que o programa leia e funcione corretamente.
 
-----------
+
 
 ## 🛠 Tecnologias Utilizadas
 As ferramentas utilizadas para a construção desse projeto foram:   
@@ -42,7 +42,7 @@ As ferramentas utilizadas para a construção desse projeto foram:
     - [VSCode](https://code.visualstudio.com/)   
     - [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
-------
+
 
 ## Autora
 Evelim Bacury ☕  -  https://github.com/evelimbacury
